@@ -1,0 +1,13 @@
+Fix npc dialogue
+Test makeplanks events
+Fix other errors
+
+Fix worldhop/or test it
+Fix IPB connection new player
+
+Fix sendCombatLevel string not sending immediately
+
+Fix all InterfaceTypes
+
+Check what creates the "Add friend, Report" options in client code
+And then see how it checks usernames and find name with tag <name>
