@@ -1,6 +1,6 @@
 title=RuneCasino
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://192.168.1.69/
+codebase=http://10.0.0.57/
 cachedir=RuneCasino
 storebase=0
 initial_jar=gamepackcasino.jar
