@@ -9,5 +9,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.runelite.client</groupId>
   <artifactId>vanilla</artifactId>
-  <version>206</version>
+  <version>206-1</version>
 </project>
