@@ -76,7 +76,7 @@
           "group": "com.openosrs",
           "module": "cache",
           "version": {
-            "requires": "4.31.4"
+            "requires": "4.31.1"
           },
           "excludes": [
             {

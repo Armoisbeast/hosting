@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "script-assembler-plugin-1.0.0.jar",
-          "url": "script-assembler-plugin-1.0.0.jar",
-          "size": 7061,
-          "sha512": "9d1c7142252f85c3ee86371e97a8ac88ef65b757fda9eae18dee247252b45dc1605a82eb212f26ffa9870f709925d5231a159deeae04fb9d117ff46897483278",
-          "sha256": "a544f8cb5ce900d94ed072bfb0259249bc709c39d0fac529875cccb4772dd3e7",
-          "sha1": "7862ec312326de0db866ba501341254364453662",
-          "md5": "6c34f82f12a41aad7930de6b47135533"
+          "name": "script-assembler-plugin-1.0.2.jar",
+          "url": "script-assembler-plugin-1.0.2.jar",
+          "size": 7060,
+          "sha512": "235f79df2585b0b714d5312c41ba51391ad83e5a1ab6d4401bf6c1df2e7881b43d5b51cf7e07a9d395219aed7a173c3917a3582a50204527745cac7a547a35b2",
+          "sha256": "f81e6b7dbad8b1ae8be9e79c738312ecdb283b5086a1a6e68b5fb90f3dff11b7",
+          "sha1": "8f54c16141ba8ac5d3793a90420e203f1c3c7f6d",
+          "md5": "0498d73ef8af2699825c83c3e78f89da"
         }
       ]
     },
@@ -69,14 +69,14 @@
           "group": "org.antlr",
           "module": "antlr4-runtime",
           "version": {
-            "requires": "4.8-1"
+            "requires": "4.13.1"
           }
         },
         {
-          "group": "com.openosrs",
+          "group": "net.runelite",
           "module": "cache",
           "version": {
-            "requires": "4.31.4"
+            "requires": "1.10.15"
           },
           "excludes": [
             {
@@ -95,13 +95,13 @@
       ],
       "files": [
         {
-          "name": "script-assembler-plugin-1.0.0.jar",
-          "url": "script-assembler-plugin-1.0.0.jar",
-          "size": 7061,
-          "sha512": "9d1c7142252f85c3ee86371e97a8ac88ef65b757fda9eae18dee247252b45dc1605a82eb212f26ffa9870f709925d5231a159deeae04fb9d117ff46897483278",
-          "sha256": "a544f8cb5ce900d94ed072bfb0259249bc709c39d0fac529875cccb4772dd3e7",
-          "sha1": "7862ec312326de0db866ba501341254364453662",
-          "md5": "6c34f82f12a41aad7930de6b47135533"
+          "name": "script-assembler-plugin-1.0.2.jar",
+          "url": "script-assembler-plugin-1.0.2.jar",
+          "size": 7060,
+          "sha512": "235f79df2585b0b714d5312c41ba51391ad83e5a1ab6d4401bf6c1df2e7881b43d5b51cf7e07a9d395219aed7a173c3917a3582a50204527745cac7a547a35b2",
+          "sha256": "f81e6b7dbad8b1ae8be9e79c738312ecdb283b5086a1a6e68b5fb90f3dff11b7",
+          "sha1": "8f54c16141ba8ac5d3793a90420e203f1c3c7f6d",
+          "md5": "0498d73ef8af2699825c83c3e78f89da"
         }
       ]
     }
