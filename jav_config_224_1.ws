@@ -66,5 +66,5 @@ param=16=false
 param=8=true
 param=15=0
 param=10=5
-runelite.gamepack=https://runecasino.net/vanilla-224.jar
+runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/224/vanilla-224.jar
 runelite.worldparam=12
